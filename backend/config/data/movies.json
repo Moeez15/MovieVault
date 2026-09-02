@@ -1,0 +1,680 @@
+[
+  {
+    "imdb_id": "tt1375666",
+    "title": "Inception",
+    "overview": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2010-01-01",
+    "rating": 8.8,
+    "director": "Christopher Nolan",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "imdb_id": "tt0468569",
+    "title": "The Dark Knight",
+    "overview": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2008-01-01",
+    "rating": 9.1,
+    "director": "Christopher Nolan",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt6751668",
+    "title": "Parasite",
+    "overview": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2019-01-01",
+    "rating": 8.5,
+    "director": "Bong Joon Ho",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "imdb_id": "tt2278388",
+    "title": "The Grand Budapest Hotel",
+    "overview": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2014-01-01",
+    "rating": 8.1,
+    "director": "Wes Anderson",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt6710474",
+    "title": "Everything Everywhere All at Once",
+    "overview": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOWNmMzAzZmQtNDQ1NC00Nzk5LTkyMmUtNGI2N2NkOWM4MzEyXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+    "release_date": "2022-01-01",
+    "rating": 7.7,
+    "director": "Daniel Kwan, Daniel Scheinert",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ]
+  },
+  {
+    "imdb_id": "tt15398776",
+    "title": "Oppenheimer",
+    "overview": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2023-01-01",
+    "rating": 8.2,
+    "director": "Christopher Nolan",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
+  },
+  {
+    "imdb_id": "tt0087182",
+    "title": "Dune",
+    "overview": "A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis to free their desert world from the emperor's rule.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMGJlMGM3NDAtOWNhMy00MWExLWI2MzEtMDQ0ZDIzZDY5ZmQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "1984-01-01",
+    "rating": 6.3,
+    "director": "David Lynch",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "imdb_id": "tt15239678",
+    "title": "Dune: Part Two",
+    "overview": "Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible fu...",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2024-01-01",
+    "rating": 8.4,
+    "director": "Denis Villeneuve",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt0477348",
+    "title": "No Country for Old Men",
+    "overview": "Violence and mayhem ensue after a hunter stumbles upon the aftermath of a drug deal gone wrong and over two million dollars in cash near the Rio Grande.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg",
+    "release_date": "2007-01-01",
+    "rating": 8.2,
+    "director": "Ethan Coen, Joel Coen",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "imdb_id": "tt2582802",
+    "title": "Whiplash",
+    "overview": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2014-01-01",
+    "rating": 8.5,
+    "director": "Damien Chazelle",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "imdb_id": "tt3783958",
+    "title": "La La Land",
+    "overview": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2016-01-01",
+    "rating": 8,
+    "director": "Damien Chazelle",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "imdb_id": "tt1392190",
+    "title": "Mad Max: Fury Road",
+    "overview": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2015-01-01",
+    "rating": 8.1,
+    "director": "George Miller",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "imdb_id": "tt5052448",
+    "title": "Get Out",
+    "overview": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2017-01-01",
+    "rating": 7.8,
+    "director": "Jordan Peele",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "imdb_id": "tt4975722",
+    "title": "Moonlight",
+    "overview": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_SX300.jpg",
+    "release_date": "2016-01-01",
+    "rating": 7.4,
+    "director": "Barry Jenkins",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt1285016",
+    "title": "The Social Network",
+    "overview": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea and by the co-founder who was later squeezed out of the business.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjlkNTE5ZTUtNGEwNy00MGVhLThmZjMtZjU1NDE5Zjk1NDZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2010-01-01",
+    "rating": 7.8,
+    "director": "David Fincher",
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt0816692",
+    "title": "Interstellar",
+    "overview": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2014-01-01",
+    "rating": 8.7,
+    "director": "Christopher Nolan",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "imdb_id": "tt4633694",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "overview": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg",
+    "release_date": "2018-01-01",
+    "rating": 8.4,
+    "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ]
+  },
+  {
+    "imdb_id": "tt8946378",
+    "title": "Knives Out",
+    "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZDU5ZTRkYmItZjg0Mi00ZTQwLThjMWItNWM3MTMxMzVjZmVjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2019-01-01",
+    "rating": 7.9,
+    "director": "Rian Johnson",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt8579674",
+    "title": "1917",
+    "overview": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+    "release_date": "2020-01-01",
+    "rating": 8.2,
+    "director": "Sam Mendes",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "imdb_id": "tt7286456",
+    "title": "Joker",
+    "overview": "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of chaos in Gotham City.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2019-01-01",
+    "rating": 8.3,
+    "director": "Todd Phillips",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "imdb_id": "tt6155172",
+    "title": "Roma",
+    "overview": "A year in the life of an upper-middle-class family's maid in Mexico City in the early 1970s.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU0OTc3ODk4Ml5BMl5BanBnXkFtZTgwMzM4NzI5NjM@._V1_SX300.jpg",
+    "release_date": "2018-01-01",
+    "rating": 7.6,
+    "director": "Alfonso Cuarón",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt5580390",
+    "title": "The Shape of Water",
+    "overview": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOGFlMTM2MTgtZDdlMy00ZDZlLWFjOTUtZDMzMGEwNmNiMWY0XkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2017-01-01",
+    "rating": 7.3,
+    "director": "Guillermo del Toro",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ]
+  },
+  {
+    "imdb_id": "tt1895587",
+    "title": "Spotlight",
+    "overview": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX300.jpg",
+    "release_date": "2015-01-01",
+    "rating": 8.1,
+    "director": "Tom McCarthy",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt5130912",
+    "title": "Birdman",
+    "overview": "A portrait of Robert, a troubled but poetic soul struggling with his purgatorial existence in a hackney scrapyard.",
+    "poster_url": null,
+    "release_date": "2014-01-01",
+    "rating": 5.1,
+    "director": "Guy Bolongaro",
+    "genres": [
+      "Documentary",
+      "Short"
+    ]
+  },
+  {
+    "imdb_id": "tt1454468",
+    "title": "Gravity",
+    "overview": "Dr Ryan Stone, an engineer on her first space mission, and Matt Kowalski, an astronaut on his final expedition, have to survive in space after they are hit by debris while spacewalking.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SX300.jpg",
+    "release_date": "2013-01-01",
+    "rating": 7.7,
+    "director": "Alfonso Cuarón",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "imdb_id": "tt1798709",
+    "title": "Her",
+    "overview": "In the near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2014-01-01",
+    "rating": 8,
+    "director": "Spike Jonze",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "imdb_id": "tt2024544",
+    "title": "12 Years a Slave",
+    "overview": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "release_date": "2013-01-01",
+    "rating": 8.1,
+    "director": "Steve McQueen",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
+  },
+  {
+    "imdb_id": "tt1663202",
+    "title": "The Revenant",
+    "overview": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYTgwNmQzZDctMjNmOS00OTExLTkwM2UtNzJmOTJhODFjOTdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "release_date": "2016-01-01",
+    "rating": 8,
+    "director": "Alejandro G. Iñárritu",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ]
+  },
+  {
+    "imdb_id": "tt2543164",
+    "title": "Arrival",
+    "overview": "Linguist Louise Banks leads a team of investigators when gigantic spaceships touch down around the world. As nations teeter on the verge of global war, Banks and her crew must find a way to communicate with the extraterrestrial vi...",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX300.jpg",
+    "release_date": "2016-01-01",
+    "rating": 7.9,
+    "director": "Denis Villeneuve",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "imdb_id": "tt1856101",
+    "title": "Blade Runner 2049",
+    "overview": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2017-01-01",
+    "rating": 8,
+    "director": "Denis Villeneuve",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "imdb_id": "tt1517451",
+    "title": "A Star Is Born",
+    "overview": "A hard-drinking country music star falls in love with a singer whose career quickly takes off.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGUxZTc0NTAtNzQwMy00MmM2LTgzMGYtZWIyY2E1MGFjYmM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2018-01-01",
+    "rating": 7.6,
+    "director": "Bradley Cooper",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ]
+  },
+  {
+    "imdb_id": "tt5027774",
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "overview": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_SX300.jpg",
+    "release_date": "2017-01-01",
+    "rating": 8.1,
+    "director": "Martin McDonagh",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt5726616",
+    "title": "Call Me by Your Name",
+    "overview": "In the summer of 1983, 17-year-old Elio is spending the days with his family at their villa in Lombardy, Italy. He soon meets 24-year-old Oliver, an intern working for Elio's father. They discover the heady beauty of awakening des...",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDk3NTEwNjc0MV5BMl5BanBnXkFtZTgwNzYxNTMwMzI@._V1_SX300.jpg",
+    "release_date": "2017-01-01",
+    "rating": 7.8,
+    "director": "Luca Guadagnino",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "imdb_id": "tt4925292",
+    "title": "Lady Bird",
+    "overview": "A fiercely independent teenager tries to make her own way in the world while wanting to get out of her hometown of Sacramento, California, and to get away from her complicated mother and recently-unemployed father.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjk5MzcyOWQtNzE1Mi00NzdmLTlkM2QtOTdjZThhMDc2Y2NjXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+    "release_date": "2017-01-01",
+    "rating": 7.4,
+    "director": "Greta Gerwig",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt5083738",
+    "title": "The Favourite",
+    "overview": "In early 18th-century England, the status quo at the court is upset when a new servant arrives and endears herself to a frail Queen Anne.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg1NzQwMDQxNV5BMl5BanBnXkFtZTgwNDg2NDYyNjM@._V1_SX300.jpg",
+    "release_date": "2018-01-01",
+    "rating": 7.5,
+    "director": "Yorgos Lanthimos",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt6966692",
+    "title": "Green Book",
+    "overview": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "release_date": "2018-01-01",
+    "rating": 8.2,
+    "director": "Peter Farrelly",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt4010884",
+    "title": "Once Upon a Time in Hollywood",
+    "overview": null,
+    "poster_url": null,
+    "release_date": "2016-01-01",
+    "rating": null,
+    "director": "Vladislav Kozlov",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt7653254",
+    "title": "Marriage Story",
+    "overview": "A stage director and his actor wife struggle through a grueling divorce that pushes them to their personal and creative extremes. Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying toget...",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNmE0OWJlM2MtNzhmMi00YmQyLTlmY2EtZmUzNzBiNGRlN2JkXkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2019-01-01",
+    "rating": 7.9,
+    "director": "Noah Baumbach",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "imdb_id": "tt9770150",
+    "title": "Nomadland",
+    "overview": "A woman in her sixties, after losing everything in the Great Recession, embarks on a journey through the American West, living as a van-dwelling modern-day nomad.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZGNkOWQ0ZjMtMTc4Ny00NDRhLTgyMjUtNzFmZDM0MTc3N2JjXkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2020-01-01",
+    "rating": 7.3,
+    "director": "Chloé Zhao",
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt5363618",
+    "title": "Sound of Metal",
+    "overview": "During a series of adrenaline-fueled gigs, itinerant punk-metal drummer Ruben begins to experience hearing loss. When a specialist tells him his condition will rapidly worsen, he thinks his music career - and with it his life - is...",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMWE5ZmYwNDEtYTYwMS00MTc0LTk2ZWItZTM1MjQ1ZDYzZGUzXkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2019-01-01",
+    "rating": 7.7,
+    "director": "Darius Marder",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "imdb_id": "tt10293406",
+    "title": "The Power of the Dog",
+    "overview": "Charismatic rancher Phil Burbank inspires fear and awe in those around him. When his brother brings home a new wife and her son, Phil torments them until he finds himself exposed to the possibility of love.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzgyMzA2NDEtZWUxNy00MDNmLTllMDYtNzZmNTU5ZWVmMzhlXkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2021-01-01",
+    "rating": 6.8,
+    "director": "Jane Campion",
+    "genres": [
+      "Drama",
+      "Western"
+    ]
+  },
+  {
+    "imdb_id": "tt10366460",
+    "title": "CODA",
+    "overview": "When the family's fishing business is threatened, Ruby finds herself torn between pursuing her musical passion and her fear of abandoning her deaf parents.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzIzOTNjOTQtM2QzOC00NjFlLTljZDUtZmI4Yjg1YTkyMTBiXkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2021-01-01",
+    "rating": 8,
+    "director": "Sian Heder",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "imdb_id": "tt1745960",
+    "title": "Top Gun: Maverick",
+    "overview": "The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2022-01-01",
+    "rating": 8.2,
+    "director": "Joseph Kosinski",
+    "genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt11813216",
+    "title": "The Banshees of Inisherin",
+    "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTkzMWI4OTEtMTk0MS00MTUxLWI4NTYtYmRiNWM4Zjc1MGRhXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+    "release_date": "2022-01-01",
+    "rating": 7.6,
+    "director": "Martin McDonagh",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "imdb_id": "tt14230458",
+    "title": "Poor Things",
+    "overview": "An account of the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYWU2MjRjZTYtMjVkMS00MTBjLWFiMTAtYmZlYTk1YjkyMWFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2023-01-01",
+    "rating": 7.7,
+    "director": "Yorgos Lanthimos",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "imdb_id": "tt7160372",
+    "title": "The Zone of Interest",
+    "overview": "The commandant of Auschwitz and his wife strive to build a dream life for their family in a house next to the camp.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjk4MTQ3MGEtZmI4OS00N2NhLWI5ZjgtYWE5ZWVkZGExYTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2023-01-01",
+    "rating": 7.3,
+    "director": "Jonathan Glazer",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ]
+  },
+  {
+    "imdb_id": "tt17009710",
+    "title": "Anatomy of a Fall",
+    "overview": "A woman is suspected of murder after her husband's death; their half-blind son faces a moral dilemma as the main witness.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYTk3MjFkZmQtMThiYi00N2JhLTk2YzItZTE5ZGUxZTIyZDVkXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg",
+    "release_date": "2024-01-01",
+    "rating": 7.6,
+    "director": "Justine Triet",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "imdb_id": "tt13238346",
+    "title": "Past Lives",
+    "overview": "Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Twenty years later, they are reunited for one fateful week as they confront notions of love and destiny.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjQyMTNhNjUtN2VmYy00NWRhLTkwOTctMGVmNTBmNDIxYjZhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "release_date": "2023-01-01",
+    "rating": 7.8,
+    "director": "Celine Song",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "imdb_id": "tt5537002",
+    "title": "Killers of the Flower Moon",
+    "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one - until the FBI steps in to unravel the mystery.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZWY5ZDVjNTUtODI5Yy00MjFhLWEyM2EtYzZjM2VjZTI0MTBjXkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2023-01-01",
+    "rating": 7.5,
+    "director": "Martin Scorsese",
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ]
+  },
+  {
+    "imdb_id": "tt23561236",
+    "title": "American Fiction",
+    "overview": "A novelist who's fed up with the establishment profiting from Black entertainment uses a pen name to write a book that propels him into the heart of the hypocrisy and madness he claims to disdain.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BM2I4ZTZhOTMtZDQ0Ni00MzI5LWE2YjktNzc0NjdkOGJiZjYzXkEyXkFqcGc@._V1_SX300.jpg",
+    "release_date": "2023-01-01",
+    "rating": 7.5,
+    "director": "Cord Jefferson",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  }
+]
