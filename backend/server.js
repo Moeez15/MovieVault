@@ -13,7 +13,7 @@ app.use('/api/genres', genresRouter);
 app.use('/api/movies', movieRouter);
 
 app.get('/', (req, res) => {
-    res.status(200).send('<h1 style="text-align: center; top-margin: 50px">Inventra API</h1>');
+    res.status(200).send('<h1 style="text-align: center; top-margin: 50px">MovieVault API</h1>');
 })
 
 const PORT = process.env.PORT || 3000;
